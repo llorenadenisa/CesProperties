@@ -42,6 +42,6 @@ fun main(args: Array<String>) {
 }
 
 data class Result (
-    val fileName: String,
-    val commentsLine: Number = 1
+    val file: String,
+    val value: Number = 1
 )
