@@ -1,0 +1,3316 @@
+[ {
+  "file" : " incubator-pinot/contrib/pinot-druid-benchmark/src/main/java/org/apache/pinotdruidbenchmark/DruidResponseTime.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/contrib/pinot-druid-benchmark/src/main/java/org/apache/pinotdruidbenchmark/PinotResponseTime.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/api/resources/PinotClientRequest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/broker/BasicAuthAccessControlFactory.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/broker/BrokerAdminApiApplication.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/broker/helix/BrokerUserDefinedMessageHandlerFactory.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/broker/helix/ClusterChangeMediator.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/broker/helix/HelixBrokerStarter.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/pruner/PartitionZKMetadataPruner.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/queryquota/HelixExternalViewBasedQueryQuotaManager.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/queryquota/MaxHitRateTracker.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/requesthandler/BaseBrokerRequestHandler.java",
+  "value" : 75
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/requesthandler/SingleConnectionBrokerRequestHandler.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/instanceselector/BalancedInstanceSelector.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/instanceselector/BaseInstanceSelector.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/instanceselector/ReplicaGroupInstanceSelector.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/instanceselector/StrictReplicaGroupInstanceSelector.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/RoutingManager.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/EmptySegmentPruner.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/interval/Interval.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/interval/IntervalTree.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/PartitionSegmentPruner.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/SegmentPrunerFactory.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentpruner/TimeSegmentPruner.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentselector/OfflineSegmentSelector.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/segmentselector/RealtimeSegmentSelector.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/main/java/org/apache/pinot/broker/routing/timeboundary/TimeBoundaryManager.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/broker/BasicAuthAccessControlTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/broker/HelixBrokerStarterTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/queryquota/HelixExternalViewBasedQueryQuotaManagerTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/queryquota/HitCounterTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/queryquota/MaxHitRateTrackerTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/request/PqlAndCalciteSqlCompatibilityTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/BrokerRequestOptionsTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/FilterOptimizerTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/MultipleOrEqualitiesToInClauseFilterQueryTreeOptimizerTest.java",
+  "value" : 51
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/OptimizationFlagsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/QueryLimitOverrideTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/requesthandler/RangeMergeOptimizerTest.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/instanceselector/InstanceSelectorTest.java",
+  "value" : 271
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/IntervalST/IntervalTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/segmentpreselector/SegmentPreSelectorTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/segmentpruner/SegmentPrunerTest.java",
+  "value" : 36
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/segmentselector/SegmentSelectorTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/routing/timeboundary/TimeBoundaryManagerTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-broker/src/test/java/org/apache/pinot/broker/util/FakePropertyStore.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/main/java/org/apache/pinot/client/ExecutionStats.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/main/java/org/apache/pinot/client/ExternalViewReader.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/main/java/org/apache/pinot/client/package-info.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/main/java/org/apache/pinot/client/TextTable.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/AggregationResultSetTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/ConnectionFactoryTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/DynamicBrokerSelectorTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/ExecutionStatsTest.java",
+  "value" : 30
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/ExternalViewReaderTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/GroupByResultSetTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/PreparedStatementTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/ResultSetGroupTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/ResultTableResultSetTest.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/SelectionResultSetTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-clients/pinot-java-client/src/test/java/org/apache/pinot/client/TextTableTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/assignment/InstanceAssignmentConfigUtils.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/assignment/InstancePartitionsUtils.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/exception/QueryException.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/AggregationFunctionType.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/DateTimePatternHandler.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/DateTimeUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/FunctionInvoker.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/FunctionUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/TimeZoneKey.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/function/TransformFunctionType.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/http/MultiGetRequest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/messages/RoutingTableRebuildMessage.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/messages/SegmentRefreshMessage.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/messages/SegmentReloadMessage.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/messages/TableConfigRefreshMessage.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/instance/InstanceZKMetadata.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/ColumnPartitionMetadata.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/LLCRealtimeSegmentZKMetadata.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/RealtimeSegmentZKMetadata.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/SegmentPartitionMetadata.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/SegmentZKMetadata.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/segment/SegmentZKMetadataCustomMapModifier.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metadata/ZKMetadataProvider.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/AbstractMetrics.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/BrokerMeter.java",
+  "value" : 26
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/BrokerTimer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/ControllerGauge.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/PinotMetricUtils.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/ServerGauge.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/ServerMeter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/ServerQueryPhase.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/metrics/ServerTimer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/protocols/SegmentCompletionProtocol.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/AggregationInfo.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/BrokerRequest.java",
+  "value" : 61
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/DataSource.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/Expression.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/FilterQuery.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/FilterQueryMap.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/Function.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/GroupBy.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/HavingFilterQuery.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/HavingFilterQueryMap.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/Identifier.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/InstanceRequest.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/Literal.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/PinotQuery.java",
+  "value" : 37
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/QuerySource.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/QueryType.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/Selection.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/SelectionSort.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/request/transform/TransformExpressionTree.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/response/broker/BrokerResponseNative.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/response/ProcessingException.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/segment/generation/SegmentGenerationUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/tier/TimeBasedTierSegmentSelector.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/ClientSSLContextGenerator.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/CommonConstants.java",
+  "value" : 39
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/config/TableConfigUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/DataSchema.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/fetcher/HttpSegmentFetcher.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/fetcher/SegmentFetcherFactory.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/FileUploadDownloadClient.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/grpc/GrpcQueryClient.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/HashUtil.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/helix/HelixHelper.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/helix/TableCache.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/HLCSegmentName.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/LLCSegmentName.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/LLCUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/PinotDataType.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/request/RequestUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/SchemaUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/SegmentName.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/ServiceStatus.java",
+  "value" : 46
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/URIUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/webhdfs/WebHdfsV1Client.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/utils/ZkStarter.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/common/Utils.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/parsers/CompilerConstants.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/parsers/utils/ParserUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/PinotQuery2BrokerRequestConverter.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/BooleanOperatorAstNode.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/ComparisonPredicateAstNode.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/FunctionCallAstNode.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/OrderByAstNode.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/OutputColumnAstNode.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/PredicateListAstNode.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/SelectAstNode.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/Pql2AstListener.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/pql/parsers/Pql2Compiler.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/main/java/org/apache/pinot/sql/parsers/CalciteSqlParser.java",
+  "value" : 58
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/data/DateTimeFormatSpecTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/data/DateTimeGranularitySpecTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/data/FieldSpecTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/data/SchemaTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/http/MultiGetRequestTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/lineage/SegmentLineageTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/metadata/MetadataUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/metadata/SegmentZKMetadataTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/metrics/PinotMetricUtilsTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/segment/generation/SegmentGenerationUtilsTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/tier/TierConfigUtilsTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/tier/TierSegmentSelectorTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/config/TableConfigSerDeTest.java",
+  "value" : 34
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/config/TagNameUtilsTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/DataSizeUtilsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/fetcher/SegmentFetcherFactoryTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/FileUploadDownloadClientTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/SegmentNameBuilderTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/ServiceStatusTest.java",
+  "value" : 25
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/TarGzCompressionUtilsTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/common/utils/UtilsTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/pql/parsers/Pql2CompilerTest.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/request/BrokerRequestSerializationTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-common/src/test/java/org/apache/pinot/sql/parsers/CalciteSqlCompilerTest.java",
+  "value" : 77
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/access/AuthenticationFilter.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/ControllerAdminApiApplication.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/ControllerFilePathProvider.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/HeaderAdder.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/LandingPageHandler.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/LLCSegmentCompletionHandlers.java",
+  "value" : 32
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotIngestionRestletResource.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotLeadControllerRestletResource.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotQueryResource.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotSchemaRestletResource.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotSegmentRestletResource.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotSegmentUploadDownloadRestletResource.java",
+  "value" : 28
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotTableInstances.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotTableRestletResource.java",
+  "value" : 29
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotTaskRestletResource.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotTenantRestletResource.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/ServerTableSizeReader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/TableViews.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/upload/SegmentValidator.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/api/upload/ZKOperator.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/ControllerConf.java",
+  "value" : 29
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/ControllerStarter.java",
+  "value" : 35
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/ControllerRequestURLBuilder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/instance/HashBasedRotateInstanceConstraintApplier.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/instance/InstanceAssignmentDriver.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/instance/InstanceReplicaGroupPartitionSelector.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/instance/InstanceTagPoolSelector.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/segment/OfflineSegmentAssignment.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/segment/RealtimeSegmentAssignment.java",
+  "value" : 35
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/assignment/segment/SegmentAssignmentUtils.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/minion/generator/TaskGeneratorRegistry.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/minion/generator/TaskGeneratorUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/minion/PinotHelixTaskResourceManager.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/minion/PinotTaskManager.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/periodictask/ControllerPeriodicTask.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/PinotHelixResourceManager.java",
+  "value" : 130
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/PinotHelixSegmentOnlineOfflineStateModelGenerator.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/PinotTableIdealStateBuilder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/PinotLLCRealtimeSegmentManager.java",
+  "value" : 100
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/PinotRealtimeSegmentManager.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/segment/DefaultFlushThresholdUpdater.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/segment/SegmentSizeBasedFlushThresholdUpdater.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/SegmentCompletionManager.java",
+  "value" : 95
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/realtime/TableConfigCache.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/rebalance/RebalanceConfigConstants.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/rebalance/TableRebalancer.java",
+  "value" : 34
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/relocation/SegmentRelocator.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/retention/RetentionManager.java",
+  "value" : 29
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/retention/strategy/TimeRetentionStrategy.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/SegmentDeletionManager.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/util/HelixSetupUtils.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/util/ZKMetadataUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/helix/SegmentStatusChecker.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/LeadControllerManager.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/DataGeneratorSpec.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/MultiValueGeneratorHelper.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/PatternMixtureGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/PatternSeasonalGenerator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/PatternSequenceGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/PatternSpikeGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/data/generator/PatternStringGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/io/InputManager.java",
+  "value" : 38
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/io/metadata/FieldMetadata.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/realtime/provisioning/MemoryEstimator.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/BloomFilterRule.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/InvertedSortedIndexJointRule.java",
+  "value" : 32
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/KafkaPartitionRule.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/NoDictionaryOnHeapDictionaryJointRule.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/PinotTablePartitionRule.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/impl/RealtimeProvisioningRule.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/BloomFilterRuleParams.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/FlagQueryRuleParams.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/InvertedSortedIndexJointRuleParams.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/NoDictionaryOnHeapDictionaryJointRuleParams.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/PartitionRuleParams.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/RealtimeProvisioningRuleParams.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/io/params/RecommenderConstants.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/RulesToExecute.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/utils/PredicateParseResult.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/recommender/rules/utils/QueryInvertedSortedIndexRecommender.java",
+  "value" : 63
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/AutoAddInvertedIndex.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/CompletionServiceHelper.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/ConsumingSegmentInfoReader.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/FileIngestionHelper.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/FileIngestionUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/SegmentCompletionUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/TableRetentionValidator.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/util/TableSizeReader.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/validation/BrokerResourceValidationManager.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/validation/OfflineSegmentIntervalChecker.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/validation/RealtimeSegmentValidationManager.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/main/java/org/apache/pinot/controller/validation/StorageQuotaChecker.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/ConsumingSegmentInfoReaderTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotBrokerRestletResourceStatelessTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotFileUploadTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotIngestionRestletResourceTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotInstanceAssignmentRestletResourceTest.java",
+  "value" : 32
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotInstanceRestletResourceTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotSchemaRestletResourceTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotSegmentRestletResourceTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotSegmentsMetadataTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotTableRestletResourceTest.java",
+  "value" : 64
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotTenantRestletResourceTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/resources/PinotSegmentUploadDownloadRestletResourceTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/SegmentCompletionProtocolDeserTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/ServerTableSizeReaderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/TableSizeReaderTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/TableViewsTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/api/upload/ZKOperatorTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/ControllerTestUtils.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/ControllerInstanceToggleTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/ControllerSentinelTestV2.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/ControllerTenantStatelessTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/ControllerTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/instance/InstanceAssignmentTest.java",
+  "value" : 71
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/OfflineDimTableSegmentAssignmentTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/OfflineNonReplicaGroupSegmentAssignmentTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/OfflineNonReplicaGroupTieredSegmentAssignmentTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/OfflineReplicaGroupSegmentAssignmentTest.java",
+  "value" : 45
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/RealtimeNonReplicaGroupSegmentAssignmentTest.java",
+  "value" : 34
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/RealtimeNonReplicaGroupTieredSegmentAssignmentTest.java",
+  "value" : 30
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/RealtimeReplicaGroupSegmentAssignmentTest.java",
+  "value" : 38
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/assignment/segment/SegmentAssignmentUtilsTest.java",
+  "value" : 98
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/minion/PinotTaskManagerTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/periodictask/ControllerPeriodicTaskTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/PinotHelixResourceManagerStatelessTest.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/PinotHelixResourceManagerTest.java",
+  "value" : 38
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/realtime/PinotLLCRealtimeSegmentManagerTest.java",
+  "value" : 77
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/realtime/segment/FlushThresholdUpdaterTest.java",
+  "value" : 31
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/realtime/SegmentCompletionTest.java",
+  "value" : 165
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/rebalance/TableRebalancerClusterStatelessTest.java",
+  "value" : 51
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/rebalance/TableRebalancerTest.java",
+  "value" : 212
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/retention/RetentionManagerTest.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/retention/SegmentLineageCleanupTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/retention/strategy/TimeRetentionStrategyTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/util/SegmentDeletionManagerTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/PinotControllerModeStatelessTest.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/PinotResourceManagerTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/SegmentStatusCheckerTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/helix/TableCacheTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/LeadControllerManagerTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/recommender/data/generator/NumberGeneratorTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/recommender/data/generator/TimeGeneratorTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/recommender/realtime/provisioning/MemoryEstimatorTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/recommender/TestConfigEngine.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/validation/StorageQuotaCheckerTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/validation/ValidationManagerStatelessTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-controller/src/test/java/org/apache/pinot/controller/validation/ValidationManagerTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/DataBlockCache.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/DataFetcher.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/datatable/DataTableBuilder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/datatable/DataTableImplV2.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/datatable/DataTableUtils.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/MinionConstants.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/common/ObjectSerDeUtils.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/DistinctCountHLLValueAggregator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/SumPrecisionValueAggregator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/function/FunctionEvaluatorFactory.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/function/GroovyFunctionEvaluator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/function/InbuiltFunctionEvaluator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/config/TableDataManagerConfig.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/offline/DimensionTableDataManager.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/HLRealtimeSegmentDataManager.java",
+  "value" : 59
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/LLRealtimeSegmentDataManager.java",
+  "value" : 135
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/PeerSchemeSplitSegmentCommitter.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/PinotFSSegmentUploader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/RealtimeSegmentDataManager.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/RealtimeTableDataManager.java",
+  "value" : 40
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/SegmentBuildTimeLeaseExtender.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/SegmentCommitterFactory.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/SegmentUploader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/Server2ControllerSegmentUploader.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/manager/realtime/SplitSegmentCommitter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/partition/PartitionFunctionFactory.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/readers/MultiplePinotSegmentRecordReader.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/readers/PinotSegmentColumnReader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/readers/PinotSegmentRecordReader.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/readers/sort/PinotSegmentSorter.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/DataTypeTransformer.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/ExpressionTransformer.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/SanitizationTransformer.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/BaseTable.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/ConcurrentIndexedTable.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/IndexedTable.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/Key.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/Record.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/SimpleIndexedTable.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/TableResizer.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/data/table/UnboundedConcurrentIndexedTable.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/geospatial/serde/GeometrySerializer.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/geospatial/transform/function/StAreaFunction.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/generator/SegmentGeneratorConfig.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/generator/SegmentVersion.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/immutable/EmptyIndexSegment.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/immutable/ImmutableSegmentImpl.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/immutable/ImmutableSegmentLoader.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/IndexSegment.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/indexsegment/mutable/MutableSegmentImpl.java",
+  "value" : 116
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/compression/ChunkCompressorFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/compression/PassThroughCompressor.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/compression/PassThroughDecompressor.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/reader/impl/FixedByteSingleValueMultiColReader.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/readerwriter/impl/FixedByteSingleValueMultiColumnReaderWriter.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/readerwriter/RealtimeIndexOffHeapMemoryManager.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/FixedBitIntReaderWriterV2.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/FixedByteValueReaderWriter.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/PinotDataBitSet.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/PinotDataBitSetV2.java",
+  "value" : 46
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/VarLengthValueReader.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/util/VarLengthValueWriter.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/BaseChunkSVForwardIndexWriter.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/DirectMemoryManager.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/FixedBitMVForwardIndexWriter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/FixedBitSVForwardIndexWriter.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/FixedByteChunkSVForwardIndexWriter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/FixedByteSingleValueMultiColWriter.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/MmapMemoryManager.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/MutableOffHeapByteArrayStore.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/io/writer/impl/VarByteChunkSVForwardIndexWriter.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/metadata/DefaultMetadataExtractor.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/metadata/MetadataExtractorFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/PinotTaskConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/RawIndexConverter.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/rollup/MergeRollupSegmentConverter.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/segment/MapperRecordReader.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/segment/ReducerRecordReader.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/SegmentConverter.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/minion/SegmentPurger.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/BaseOperator.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/blocks/IntermediateResultsBlock.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/BaseCombineOperator.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/DistinctCombineOperator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/GroupByCombineOperator.java",
+  "value" : 28
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/GroupByOrderByCombineOperator.java",
+  "value" : 25
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/MinMaxValueBasedSelectionOrderByCombineOperator.java",
+  "value" : 28
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/SelectionOnlyCombineOperator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/combine/SelectionOrderByCombineOperator.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/AndDocIdIterator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/ExpressionScanDocIdIterator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/MVScanDocIdIterator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/OrDocIdIterator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/SortedDocIdIterator.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/dociditerators/SVScanDocIdIterator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/DocIdSetOperator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/docidsets/AndDocIdSet.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/docidsets/OrDocIdSet.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/docidsets/SortedDocIdSet.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/ExecutionStatistics.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/FilterOperatorUtils.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/H3IndexFilterOperator.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/BaseDictionaryBasedPredicateEvaluator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/PredicateEvaluatorProvider.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/RangePredicateEvaluatorFactory.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/RangeIndexBasedFilterOperator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/filter/SortedIndexBasedFilterOperator.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/ProjectionOperator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/AggregationGroupByOperator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/AggregationGroupByOrderByOperator.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/AggregationOperator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/DictionaryBasedAggregationOperator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/DistinctOperator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/MetadataBasedAggregationOperator.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/query/SelectionOrderByOperator.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/streaming/StreamingSelectionOnlyCombineOperator.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/streaming/StreamingSelectionOnlyOperator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/AdditionTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ArrayAverageTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ArrayLengthTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ArrayMaxTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ArrayMinTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ArraySumTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/BinaryOperatorTransformFunction.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/CaseTransformFunction.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/CastTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/DateTimeConversionTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/DivisionTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/GroovyTransformFunction.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/JsonExtractKeyTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/JsonExtractScalarTransformFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/LookupTransformFunction.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/MapValueTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ModuloTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/MultiplicationTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ScalarTransformFunctionWrapper.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/SubtractionTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/TimeConversionTransformFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/TransformFunctionFactory.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/ValueInTransformFunction.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/transformer/datetime/BaseDateTimeTransformer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/transformer/datetime/EpochToSDFTransformer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/operator/transform/transformer/datetime/SDFToSDFTransformer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/periodictask/BasePeriodicTask.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/periodictask/PeriodicTaskScheduler.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/AggregationGroupByOrderByPlanNode.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/AggregationGroupByPlanNode.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/AggregationPlanNode.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/CombinePlanNode.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/FilterPlanNode.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/maker/InstancePlanMakerImplV2.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/SelectionPlanNode.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/plan/TransformPlanNode.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunctionFactory.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunctionUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AvgAggregationFunction.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/CountAggregationFunction.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/customobject/QuantileDigest.java",
+  "value" : 40
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountAggregationFunction.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountBitmapAggregationFunction.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountBitmapMVAggregationFunction.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountHLLAggregationFunction.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountMVAggregationFunction.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountRawThetaSketchAggregationFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountThetaSketchAggregationFunction.java",
+  "value" : 23
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/FastHLLAggregationFunction.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MinMaxRangeAggregationFunction.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileEstAggregationFunction.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileTDigestAggregationFunction.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/SegmentPartitionedDistinctCountAggregationFunction.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/AggregationGroupByTrimmingService.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/DefaultGroupByExecutor.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/DictionaryBasedGroupKeyGenerator.java",
+  "value" : 26
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/DoubleGroupByResultHolder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/GroupKeyGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/NoDictionarySingleColumnGroupKeyGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/ObjectGroupByResultHolder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/utils/ValueToIdMapFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/config/QueryExecutorConfig.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/distinct/DistinctExecutor.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/distinct/DistinctExecutorFactory.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/distinct/DistinctTable.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/executor/ServerQueryExecutorV1Impl.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/optimizer/filter/MergeEqInFilterOptimizer.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/optimizer/filter/MergeRangeFilterOptimizer.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/postaggregation/PostAggregationFunction.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/pruner/ColumnValueSegmentPruner.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/pruner/SelectionQuerySegmentPruner.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/pruner/ValidSegmentPruner.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/AggregationDataTableReducer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/BrokerReduceService.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/DataTableReducerContext.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/DistinctDataTableReducer.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/GroupByDataTableReducer.java",
+  "value" : 44
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/PostAggregationHandler.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/ResultReducerFactory.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/reduce/SelectionDataTableReducer.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/FilterContext.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/FunctionContext.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/predicate/RangePredicate.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/QueryContext.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/utils/BrokerRequestToQueryContextConverter.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/context/utils/QueryContextConverterUtils.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/request/ServerQueryRequest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/AbstractSchedulerGroup.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/MultiLevelPriorityQueue.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/PriorityScheduler.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/QueryScheduler.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/QuerySchedulerFactory.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/resources/PolicyBasedResourceManager.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/resources/ResourceLimitPolicy.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/resources/ResourceManager.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/SchedulerPriorityQueue.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/tokenbucket/TokenPriorityScheduler.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/scheduler/tokenbucket/TokenSchedulerGroup.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/selection/SelectionOperatorService.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/selection/SelectionOperatorUtils.java",
+  "value" : 25
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/utils/idset/BloomFilterIdSet.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/utils/idset/EmptyIdSet.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/utils/idset/IdSet.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/utils/idset/IdSets.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/query/utils/idset/Roaring64NavigableMapIdSet.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/converter/RealtimeSegmentConverter.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/converter/stats/RealtimeColumnStatistics.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/converter/stats/RealtimeSegmentStatsContainer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BaseOffHeapMutableDictionary.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BaseOnHeapMutableDictionary.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/MutableDictionaryFactory.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/OffHeapMutableBytesStore.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/forward/FixedByteMVMutableForwardIndex.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/forward/FixedByteSVMutableForwardIndex.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/geospatial/MutableH3Index.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/invertedindex/RealtimeInvertedIndexReader.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/invertedindex/RealtimeLuceneDocIdCollector.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/invertedindex/RealtimeLuceneIndexReaderRefreshThread.java",
+  "value" : 31
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/invertedindex/RealtimeLuceneTextIndexReader.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/json/MutableJsonIndex.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/RealtimeSegmentConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/RealtimeSegmentStatsHistory.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/requesthandler/BrokerRequestOptimizer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/requesthandler/FlattenNestedPredicatesFilterQueryTreeOptimizer.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/requesthandler/MultipleOrEqualitiesToInClauseFilterQueryTreeOptimizer.java",
+  "value" : 44
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/requesthandler/RangeMergeOptimizer.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/bloom/OnHeapGuavaBloomFilterCreator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/fwd/SingleValueFixedByteRawIndexCreator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/geospatial/BaseH3IndexCreator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/geospatial/OffHeapH3IndexCreator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/json/BaseJsonIndexCreator.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/json/OffHeapJsonIndexCreator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/OffHeapBitmapInvertedIndexCreator.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/RangeIndexCreator.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/inv/text/LuceneFSTIndexCreator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentColumnarIndexCreator.java",
+  "value" : 47
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentDictionaryCreator.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentIndexCreationDriverImpl.java",
+  "value" : 39
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/text/LuceneTextIndexCreator.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/creator/RecordReaderSegmentCreationDataSource.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/column/PhysicalColumnIndexContainer.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/converter/SegmentV1V2ToV3FormatConverter.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/datasource/MutableDataSource.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/bloomfilter/BloomFilterHandler.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/columnminmaxvalue/ColumnMinMaxValueGenerator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/BaseDefaultColumnHandler.java",
+  "value" : 39
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/V1DefaultColumnHandler.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/V3DefaultColumnHandler.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/IndexLoadingConfig.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/H3IndexHandler.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/InvertedIndexHandler.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/JsonIndexHandler.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/LuceneFSTIndexHandler.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/RangeIndexHandler.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/invertedindex/TextIndexHandler.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/LoaderUtils.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/SegmentPreProcessor.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/metadata/ColumnMetadata.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/metadata/SegmentMetadataImpl.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/BaseImmutableDictionary.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/BitmapInvertedIndexReader.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/bloom/BaseGuavaBloomFilterReader.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/bloom/GuavaBloomFilterReaderUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/bloom/OffHeapGuavaBloomFilterReader.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/bloom/OnHeapGuavaBloomFilterReader.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/Dictionary.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/forward/BaseChunkSVForwardIndexReader.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/forward/FixedBitMVForwardIndexReader.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/forward/FixedBitSVForwardIndexReaderV2.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/forward/VarByteChunkSVForwardIndexReader.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/geospatial/ImmutableH3IndexReader.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/json/ImmutableJsonIndexReader.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/LuceneFSTIndexReader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/MutableDictionary.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/RangeIndexReader.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/sorted/SortedIndexReaderImpl.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/text/LuceneDocIdCollector.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/text/LuceneTextIndexReader.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/memory/BasePinotLBuffer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/memory/PinotDataBuffer.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/name/NormalizedDateSegmentNameGenerator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/collector/CollectorFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/collector/RollupCollector.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/framework/SegmentConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/framework/SegmentMapper.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/framework/SegmentProcessorFramework.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/processing/framework/SegmentReducer.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/store/FilePerIndexDirectory.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/store/SegmentDirectory.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/store/SegmentDirectoryPaths.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/store/SegmentLocalFSDirectory.java",
+  "value" : 33
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/store/SingleFileIndexDirectory.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/segment/virtualcolumn/VirtualColumnProviderFactory.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/OffHeapStarTree.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/OffHeapStarTreeNode.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/operator/StarTreeFilterOperator.java",
+  "value" : 25
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/plan/StarTreeTransformPlanNode.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/StarTreeBuilderUtils.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/StarTreeUtils.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/BaseSingleTreeBuilder.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/MultipleTreesBuilder.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/OffHeapSingleTreeBuilder.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/StarTreeIndexCombiner.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/StarTreeV2BuilderConfig.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/StarTreeV2Constants.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/StarTreeV2Metadata.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/store/StarTreeIndexMapUtils.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/startree/v2/store/StarTreeLoaderUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/grpc/GrpcQueryServer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/InstanceRequestHandler.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/QueryRouter.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/QueryServer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/ServerChannels.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/transport/ServerInstance.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/upsert/PartitionUpsertMetadataManager.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/CleanerUtil.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/CrcUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/fst/RegexpMatcher.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/IngestionUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/IntDoubleIndexedPriorityQueue.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/IntObjectIndexedPriorityQueue.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/ListenerConfigUtil.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/PeerServerSegmentFinder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/SortedRangeIntersection.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/TableConfigUtils.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/core/util/TlsUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/server/realtime/ControllerLeaderLocator.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/main/java/org/apache/pinot/server/realtime/ServerSegmentCompletionProtocolHandler.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/common/DataFetcherTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/common/datatable/DataTableSerDeTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/common/datatable/DataTableUtilsTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/common/ObjectSerDeUtilsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/function/DateTimeFunctionsTest.java",
+  "value" : 38
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/function/JsonFunctionsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/manager/BaseTableDataManagerTest.java",
+  "value" : 37
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/manager/offline/DimensionTableDataManagerTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/manager/realtime/LLRealtimeSegmentDataManagerTest.java",
+  "value" : 50
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/manager/realtime/PinotFSSegmentUploaderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/partition/PartitionFunctionTest.java",
+  "value" : 23
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/readers/MultiplePinotSegmentRecordReaderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/readers/PinotSegmentRecordReaderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/readers/PinotSegmentUtil.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/readers/RecordReaderSampleDataTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/recordtransformer/DataTypeTransformerTest.java",
+  "value" : 33
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/recordtransformer/ExpressionTransformerTest.java",
+  "value" : 23
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/recordtransformer/ExpressionTransformerTimeTest.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/recordtransformer/RecordTransformerTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/table/IndexedTableTest.java",
+  "value" : 25
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/data/table/TableResizerTest.java",
+  "value" : 48
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/geospatial/serde/GeometrySerdeTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/geospatial/transform/GeoInputOutputTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/geospatial/transform/StAreaFunctionTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/geospatial/transform/StDistanceFunctionTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/geospatial/transform/StGeometryTypeFunctionTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/indexsegment/generator/SegmentGeneratorConfigTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/indexsegment/mutable/MutableSegmentImplAggregateMetricsTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/indexsegment/mutable/MutableSegmentImplTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/io/util/PinotDataBitSetTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/io/util/PinotDataBitSetV2Test.java",
+  "value" : 82
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/io/writer/impl/MmapMemoryManagerFileCleanupTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/io/writer/impl/MmapMemoryManagerTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/io/writer/impl/MutableOffHeapByteArrayStoreTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/minion/MergeRollupSegmentConverterTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/minion/SegmentConverterTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/minion/SegmentPurgerTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/combine/CombineSlowOperatorsTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/combine/SelectionCombineOperatorTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/dociditerators/AndDocIdIteratorTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/dociditerators/OrDocIdIteratorTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/filter/predicate/RangeOfflineDictionaryPredicateEvaluatorTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/BaseTransformFunctionTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/DateTimeConversionTransformFunctionTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/DateTruncTransformFunctionTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/GroovyTransformFunctionTest.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/LookupTransformFunctionTest.java",
+  "value" : 36
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/operator/transform/transformer/datetime/DateTimeConverterTest.java",
+  "value" : 33
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/plan/CombinePlanNodeTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/plan/maker/MetadataAndDictionaryAggregationPlanMakerTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/optimizer/QueryOptimizerTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/postaggregation/PostAggregationFunctionTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/pruner/ColumnValueSegmentPrunerTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/pruner/SelectionQuerySegmentPrunerTest.java",
+  "value" : 42
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/reduce/HavingFilterHandlerTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/reduce/PostAggregationHandlerTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/request/context/predicate/PredicateTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/request/context/utils/BrokerRequestToQueryContextConverterTest.java",
+  "value" : 31
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/scheduler/fcfs/FCFSSchedulerGroupTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/scheduler/MultiLevelPriorityQueueTest.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/scheduler/PrioritySchedulerTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/scheduler/resources/BoundedAccountingExecutorTest.java",
+  "value" : 26
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/scheduler/tokenbucket/TokenSchedulerGroupTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/query/utils/idset/IdSetTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/MultiValueDictionaryTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/MutableDictionaryTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/OffHeapMutableBytesStoreTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/fakestream/FakePartitionLevelConsumer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/fakestream/FakeStreamConfigUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/fakestream/FakeStreamConsumerFactory.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/invertedindex/RealtimeInvertedIndexReaderTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/RealtimeSegmentStatsHistoryTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/stream/OffsetCriteriaTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/realtime/stream/StreamConfigTest.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/creator/impl/SegmentColumnarIndexCreatorTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/ColumnMetadataTest.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/converter/SegmentV1V2ToV3FormatConverterTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/BloomFilterCreatorTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/SegmentGenerationWithBytesTypeTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/SegmentGenerationWithNullValueVectorTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/SegmentGenerationWithTimeColumnTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/SegmentPartitionTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/BaseDefaultColumnHandlerTest.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/LoaderTest.java",
+  "value" : 88
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/LoaderUtilsTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/SegmentPreProcessorTest.java",
+  "value" : 57
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryTypeConversionTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/index/SegmentMetadataImplTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/memory/PinotDataBufferTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/PartitionerTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/RecordFilterTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/RecordTransformerTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/SegmentMapperTest.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/SegmentProcessingFrameworkTest.java",
+  "value" : 41
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/processing/framework/SegmentReducerTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/store/ColumnIndexDirectoryTestHelper.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/store/FilePerIndexDirectoryTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/store/SegmentLocalFSDirectoryTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/segment/store/SingleFileIndexDirectoryTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/startree/v2/BaseStarTreeV2Test.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/startree/v2/builder/StarTreeV2BuilderConfigTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/startree/v2/PreAggregatedDistinctCountHLLStarTreeV2Test.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/startree/v2/PreAggregatedPercentileEstStarTreeV2Test.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/startree/v2/PreAggregatedPercentileTDigestStarTreeV2Test.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/transport/QueryRoutingTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/upsert/PartitionUpsertMetadataManagerTest.java",
+  "value" : 28
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/CrcUtilsTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/IngestionUtilsTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/PeerServerSegmentFinderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/SchemaUtilsTest.java",
+  "value" : 30
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/SortedRangeIntersectionTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/TableConfigUtilsTest.java",
+  "value" : 111
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/core/util/trace/TraceContextTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/FixedBitMVForwardIndexTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/FixedByteChunkSVForwardIndexTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/mutable/FixedByteMVMutableForwardIndexTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/mutable/FixedByteSVMutableForwardIndexTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/mutable/VarByteSVMutableForwardIndexTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/forward/VarByteChunkSVForwardIndexTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/index/readerwriter/FixedByteSingleValueMultiColumnReaderWriterTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/BaseMultiValueQueriesTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/BaseQueriesTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/BaseSingleValueQueriesTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/DistinctCountBitmapQueriesTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/DistinctCountQueriesTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/DistinctCountThetaSketchQueriesTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/DistinctQueriesTest.java",
+  "value" : 53
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/FastHllQueriesTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/FSTBasedRegexpLikeQueriesTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/H3IndexQueriesTest.java",
+  "value" : 27
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/IdSetQueriesTest.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentAggregationMultiValueQueriesTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentAggregationSingleValueQueriesTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentSelectionMultiValueQueriesTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentSelectionSingleValueQueriesTest.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentAggregationMultiValueQueriesTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentAggregationSingleValueQueriesTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentOrderByMultiValueQueriesTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentOrderBySingleValueQueriesTest.java",
+  "value" : 43
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentResultTableMultiValueQueriesTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentResultTableSingleValueQueriesTest.java",
+  "value" : 26
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/JsonMatchPredicateTest.java",
+  "value" : 13
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/PercentileTDigestQueriesTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/QueriesTestUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/RangePredicateWithSortedInvertedIndexTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/SegmentPartitionedDistinctCountQueriesTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/SerializedBytesQueriesTest.java",
+  "value" : 43
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/StUnionQueriesTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/SumPrecisionQueriesTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/TextSearchQueriesTest.java",
+  "value" : 210
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/queries/TransformQueriesTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/query/aggregation/groupby/AggregationGroupByTrimmingServiceTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/query/aggregation/groupby/DictionaryBasedGroupKeyGeneratorTest.java",
+  "value" : 31
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/query/aggregation/groupby/NoDictionaryGroupKeyGeneratorTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/query/executor/QueryExecutorTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/query/selection/SelectionOperatorServiceTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/realtime/converter/RealtimeSegmentConverterTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/BitmapInvertedIndexCreatorTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/BitmapInvertedIndexTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/DictionariesTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/FixedIntArrayIdMapTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/IntArraysTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/server/realtime/ControllerLeaderLocatorTest.java",
+  "value" : 30
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/util/IntDoubleIndexedPriorityQueueTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/util/IntObjectIndexedPriorityQueueTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-core/src/test/java/org/apache/pinot/util/TestUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/compat/tests/SegmentOp.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/compat/tests/SqlResultComparator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/compat/tests/StreamOp.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/AdminConsoleIntegrationTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/AggregateMetricsClusterIntegrationTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/BaseClusterIntegrationTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/BaseClusterIntegrationTestSet.java",
+  "value" : 35
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ClusterIntegrationTestUtils.java",
+  "value" : 78
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ClusterTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ControllerPeriodicTasksIntegrationTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ConvertToRawIndexMinionClusterIntegrationTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ExactlyOnceKafkaRealtimeClusterIntegrationTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/FlakyConsumerRealtimeClusterIntegrationTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/HybridClusterIntegrationTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/HybridClusterIntegrationTestCommandLineRunner.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/IngestionConfigHybridIntegrationTest.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/JsonPathClusterIntegrationTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/LLCRealtimeClusterIntegrationTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/LuceneRealtimeClusterIntegrationTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/MapTypeClusterIntegrationTest.java",
+  "value" : 21
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/MetadataAndDictionaryAggregationPlanClusterIntegrationTest.java",
+  "value" : 33
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/MultiNodesOfflineClusterIntegrationTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/NullHandlingIntegrationTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/OfflineClusterIntegrationTest.java",
+  "value" : 109
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/PeerDownloadLLCRealtimeClusterIntegrationTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/QueryGenerator.java",
+  "value" : 45
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/RealtimeClusterIntegrationTest.java",
+  "value" : 18
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/RealtimeToOfflineSegmentsMinionClusterIntegrationTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/SegmentCompletionIntegrationTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/SegmentPartitionLLCRealtimeClusterIntegrationTest.java",
+  "value" : 42
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/SimpleMinionClusterIntegrationTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/StarTreeClusterIntegrationTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ThetaSketchIntegrationTest.java",
+  "value" : 24
+}, {
+  "file" : " incubator-pinot/pinot-integration-tests/src/test/java/org/apache/pinot/server/realtime/ControllerLeaderLocatorIntegrationTest.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-minion/src/main/java/org/apache/pinot/minion/MinionContext.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-minion/src/main/java/org/apache/pinot/minion/MinionStarter.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkCombineGroupBy.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkDictionary.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkFixedIntArrayOffHeapIdMap.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkGeospatialSerde.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkIndexedTable.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkOffHeapDictionaryMemory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkOfflineIndexReader.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkRealtimeConsumptionSpeed.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkStringDictionary.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/ForwardIndexWriterBenchmark.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-perf/src/main/java/org/apache/pinot/perf/RawIndexBenchmark.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-common/src/main/java/org/apache/pinot/plugin/ingestion/batch/common/SegmentGenerationTaskRunner.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-common/src/main/java/org/apache/pinot/plugin/ingestion/batch/common/SegmentPushUtils.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/main/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentCreationMapper.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/main/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentGenerationJobRunner.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/main/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentMetadataPushJobRunner.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/main/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentTarPushJobRunner.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/main/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentUriPushJobRunner.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/src/test/java/org/apache/pinot/plugin/ingestion/batch/hadoop/HadoopSegmentGenerationJobRunnerTest.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark/src/main/java/org/apache/pinot/plugin/ingestion/batch/spark/SparkSegmentGenerationJobRunner.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark/src/main/java/org/apache/pinot/plugin/ingestion/batch/spark/SparkSegmentMetadataPushJobRunner.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark/src/main/java/org/apache/pinot/plugin/ingestion/batch/spark/SparkSegmentTarPushJobRunner.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark/src/main/java/org/apache/pinot/plugin/ingestion/batch/spark/SparkSegmentUriPushJobRunner.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-standalone/src/main/java/org/apache/pinot/plugin/ingestion/batch/standalone/SegmentGenerationJobRunner.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-standalone/src/test/java/org/apache/pinot/plugin/ingestion/batch/standalone/SegmentGenerationJobRunnerTest.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/io/PinotOutputFormat.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/HadoopSegmentCreationJob.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/HadoopSegmentPreprocessingJob.java",
+  "value" : 26
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/InternalConfigConstants.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/mappers/SegmentCreationMapper.java",
+  "value" : 11
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/mappers/SegmentPreprocessingMapper.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/partitioners/PartitionFunctionFactory.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/main/java/org/apache/pinot/hadoop/job/reducers/SegmentPreprocessingReducer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-hadoop/src/test/java/org/apache/pinot/hadoop/data/IngestionSchemaValidatorTest.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/common/DefaultControllerRestApi.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/common/JobConfigConstants.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/jobs/BaseSegmentJob.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/jobs/SegmentCreationJob.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/jobs/SegmentPreprocessingJob.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-ingestion-common/src/main/java/org/apache/pinot/ingestion/jobs/SegmentTarPushJob.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-spark/src/main/java/org/apache/pinot/spark/jobs/SparkSegmentCreationFunction.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-spark/src/main/java/org/apache/pinot/spark/jobs/SparkSegmentCreationJob.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-spark/src/main/java/org/apache/pinot/spark/jobs/SparkSegmentTarPushJob.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-batch-ingestion/v0_deprecated/pinot-spark/src/test/java/SegmentCreationSparkTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-adls/src/main/java/org/apache/pinot/plugin/filesystem/ADLSGen2PinotFS.java",
+  "value" : 40
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-adls/src/main/java/org/apache/pinot/plugin/filesystem/AzurePinotFS.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-adls/src/main/java/org/apache/pinot/plugin/filesystem/AzurePinotFSUtil.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-adls/src/test/java/org/apache/pinot/plugin/filesystem/test/AzurePinotFSUtilTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-gcs/src/main/java/org/apache/pinot/plugin/filesystem/GcsPinotFS.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-hdfs/src/main/java/org/apache/pinot/plugin/filesystem/HadoopPinotFS.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-file-system/pinot-s3/src/main/java/org/apache/pinot/plugin/filesystem/S3PinotFS.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-avro/src/main/java/org/apache/pinot/plugin/inputformat/avro/KafkaAvroMessageDecoder.java",
+  "value" : 15
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-avro/src/main/java/org/apache/pinot/plugin/inputformat/avro/SimpleAvroMessageDecoder.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-avro-base/src/main/java/org/apache/pinot/plugin/inputformat/avro/AvroIngestionSchemaValidator.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-avro-base/src/test/java/org/apache/pinot/plugin/inputformat/avro/AvroRecordExtractorComplexTypesTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-avro-base/src/test/java/org/apache/pinot/plugin/inputformat/avro/AvroRecordExtractorTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-csv/src/main/java/org/apache/pinot/plugin/inputformat/csv/CSVRecordExtractor.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-csv/src/main/java/org/apache/pinot/plugin/inputformat/csv/CSVRecordReaderConfig.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-csv/src/test/java/org/apache/pinot/plugin/inputformat/csv/CSVRecordExtractorConfigTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-csv/src/test/java/org/apache/pinot/plugin/inputformat/csv/CSVRecordExtractorTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-json/src/main/java/org/apache/pinot/plugin/inputformat/json/JSONRecordExtractor.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-orc/src/main/java/org/apache/pinot/plugin/inputformat/orc/ORCRecordReader.java",
+  "value" : 19
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-orc/src/test/java/org/apache/pinot/plugin/inputformat/orc/ORCRecordExtractorTest.java",
+  "value" : 22
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-orc/src/test/java/org/apache/pinot/plugin/inputformat/orc/ORCRecordReaderTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-parquet/src/main/java/org/apache/pinot/plugin/inputformat/parquet/ParquetNativeRecordExtractor.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-parquet/src/main/java/org/apache/pinot/plugin/inputformat/parquet/ParquetNativeRecordReader.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-parquet/src/main/java/org/apache/pinot/plugin/inputformat/parquet/ParquetUtils.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-protobuf/src/test/java/org/apache/pinot/plugin/inputformat/protobuf/ComplexTypes.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-protobuf/src/test/java/org/apache/pinot/plugin/inputformat/protobuf/ProtoBufRecordReaderTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-protobuf/src/test/java/org/apache/pinot/plugin/inputformat/protobuf/Sample.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-thrift/src/test/java/org/apache/pinot/plugin/inputformat/thrift/ComplexTypes.java",
+  "value" : 45
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-input-format/pinot-thrift/src/test/java/org/apache/pinot/plugin/inputformat/thrift/NestedType.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/BaseMultipleSegmentsConversionExecutor.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/BaseSingleSegmentConversionExecutor.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/convert_to_raw_index/ConvertToRawIndexTaskGenerator.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/merge_rollup/MergeRollupTaskExecutor.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/realtime_to_offline_segments/RealtimeToOfflineSegmentsTaskExecutor.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/realtime_to_offline_segments/RealtimeToOfflineSegmentsTaskGenerator.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/SegmentConversionUtils.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/segment_generation_and_push/SegmentGenerationAndPushTaskExecutor.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/main/java/org/apache/pinot/plugin/minion/tasks/segment_generation_and_push/SegmentGenerationAndPushTaskGenerator.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/test/java/org/apache/pinot/plugin/minion/tasks/realtime_to_offline_segments/RealtimeToOfflineSegmentsTaskExecutorTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/test/java/org/apache/pinot/plugin/minion/tasks/realtime_to_offline_segments/RealtimeToOfflineSegmentsTaskGeneratorTest.java",
+  "value" : 40
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-minion-tasks/pinot-minion-builtin-tasks/src/test/java/org/apache/pinot/plugin/minion/tasks/segment_generation_and_push/SegmentGenerationAndPushTaskGeneratorTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaConnectionHandler.java",
+  "value" : 17
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaConsumerManager.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaHighLevelStreamConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaPartitionLevelConsumer.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaStreamLevelConsumer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/KafkaStreamMetadataProvider.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/main/java/org/apache/pinot/plugin/stream/kafka09/server/KafkaDataServerStartable.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/test/java/org/apache/pinot/plugin/stream/kafka09/KafkaLowLevelStreamConfigTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-0.9/src/test/java/org/apache/pinot/plugin/stream/kafka09/KafkaPartitionLevelConsumerTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/main/java/org/apache/pinot/plugin/stream/kafka20/KafkaPartitionLevelConsumer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/main/java/org/apache/pinot/plugin/stream/kafka20/KafkaStreamLevelConsumer.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/main/java/org/apache/pinot/plugin/stream/kafka20/KafkaStreamLevelConsumerManager.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/main/java/org/apache/pinot/plugin/stream/kafka20/server/KafkaDataServerStartable.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/test/java/org/apache/pinot/plugin/stream/kafka20/KafkaPartitionLevelConsumerTest.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-plugins/pinot-stream-ingestion/pinot-kafka-2.0/src/test/java/org/apache/pinot/plugin/stream/kafka20/KafkaPartitionLevelStreamConfigTest.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/api/resources/DefaultExceptionMapper.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/api/resources/TableSizeResource.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/api/resources/TablesResource.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/conf/ServerConf.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/AdminApiApplication.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/DefaultHelixStarterServerConfig.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/HelixInstanceDataManager.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/HelixInstanceDataManagerConfig.java",
+  "value" : 32
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/HelixServerStarter.java",
+  "value" : 31
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/SegmentFetcherAndLoader.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/SegmentMessageHandlerFactory.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/helix/SegmentOnlineOfflineStateModelFactory.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-server/src/main/java/org/apache/pinot/server/starter/ServerInstance.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-server/src/test/java/org/apache/pinot/server/api/AccessControlTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-server/src/test/java/org/apache/pinot/server/api/BaseResourceTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-server/src/test/java/org/apache/pinot/server/api/TablesResourceTest.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/annotations/InterfaceAudience.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/assignment/InstancePartitionsType.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/FieldConfig.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/IndexingConfig.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/QueryConfig.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/QuotaConfig.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/RoutingConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/SegmentsValidationAndRetentionConfig.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/StarTreeIndexConfig.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/TableConfig.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/table/TierConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/config/tenant/Tenant.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/crypt/PinotCrypterFactory.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/ComplexFieldSpec.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/DateTimeFieldSpec.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/DimensionFieldSpec.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/FieldSpec.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/MetricFieldSpec.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/readers/BaseRecordExtractor.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/readers/RecordReaderFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/Schema.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/TimeFieldSpec.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/data/TimeGranularitySpec.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/env/CommonsConfigurationUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/filesystem/LocalPinotFS.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/filesystem/PinotFS.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/filesystem/PinotFSFactory.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/plugin/PluginClassLoader.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/plugin/PluginManager.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/OffsetCriteria.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/PartitionCountFetcher.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/PartitionLevelConsumer.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/PartitionLevelStreamConfig.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/StreamConfig.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/StreamConfigProperties.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/stream/StreamMetadataProvider.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/builder/TableConfigBuilder.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/ByteArray.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/JsonUtils.java",
+  "value" : 10
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/retry/BaseRetryPolicy.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/StringUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/main/java/org/apache/pinot/spi/utils/TimeUtils.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/config/ConfigUtilsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/config/table/QuotaConfigTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/config/table/UpsertConfigTest.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/data/DateTimeFieldSpecUtilsTest.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/data/readers/AbstractRecordReaderTest.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/env/PinotConfigurationTest.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/filesystem/LocalPinotFSTest.java",
+  "value" : 29
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/ingestion/batch/BatchConfigTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/plugin/PluginManagerTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/utils/BigDecimalUtilsTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/utils/IngestionConfigUtilsTest.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/utils/retry/RetryPolicyTest.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-spi/src/test/java/org/apache/pinot/spi/utils/TimeConverterTest.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/AddTableCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/AnonymizeDataCommand.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/CreateSegmentCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/GenerateDataCommand.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/ImportDataCommand.java",
+  "value" : 7
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/MoveReplicaGroup.java",
+  "value" : 9
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/OfflineSegmentIntervalCheckerCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/RealtimeProvisioningHelperCommand.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/ShowClusterInfoCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/StartControllerCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/StartServiceManagerCommand.java",
+  "value" : 8
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/StartZookeeperCommand.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/StreamAvroIntoKafkaCommand.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/UploadSegmentCommand.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/ValidateConfigCommand.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/VerifySegmentState.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/anonymizer/ArrayBasedGlobalDictionaries.java",
+  "value" : 16
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/anonymizer/MapBasedGlobalDictionaries.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/anonymizer/PinotDataAndQueryAnonymizer.java",
+  "value" : 134
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/BootstrapTableTool.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/Command.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/config/validator/TableConfigValidator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/filesystem/PinotFSBenchmarkDriver.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/HybridQuickstart.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/JoinQuickStart.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/perf/PerfBenchmarkDriver.java",
+  "value" : 14
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/perf/QueryRunner.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/perf/ZookeeperLauncher.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/PinotIdealstateChanger.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/PinotNumReplicaChanger.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/PinotToolLauncher.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/ClusterStarter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/QueryComparison.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/QueryComparisonConfig.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/SegmentInfoProvider.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/StarTreeQueryGenerator.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/query/comparison/StatsGenerator.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/Quickstart.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/Aggregation.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/EqualsPredicateFilter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/InPredicateFilter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/NotInPredicateFilter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/NotPredicateFilter.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/Projection.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/QueryResponse.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/RangePredicateFilter.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/ResultTable.java",
+  "value" : 4
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/scan/query/SegmentQueryProcessor.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/segment/converter/PinotSegmentConvertCommand.java",
+  "value" : 5
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/segment/converter/SegmentMergeCommand.java",
+  "value" : 20
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/SegmentDumpTool.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/service/PinotServiceManagerAdminApiApplication.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/SpeedTest.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/StarTreeIndexViewer.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/streams/githubevents/PullRequestMergedEvent.java",
+  "value" : 6
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/streams/githubevents/PullRequestMergedEventsStream.java",
+  "value" : 12
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/streams/MeetupRsvpJsonStream.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/UpdateSegmentState.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/utils/JarUtils.java",
+  "value" : 1
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/main/java/org/apache/pinot/tools/utils/KafkaStarterUtils.java",
+  "value" : 3
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/test/java/org/apache/pinot/tools/TestCreateSegmentCommand.java",
+  "value" : 2
+}, {
+  "file" : " incubator-pinot/pinot-tools/src/test/java/org/apache/pinot/tools/TestDataAndQueryAnonymizer.java",
+  "value" : 5
+} ]
