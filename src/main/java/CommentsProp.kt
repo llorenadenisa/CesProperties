@@ -11,11 +11,14 @@ class CommentsProp {
                 println("You have to give one parameter")
                 return
             }
-            val folderFile = args[0]
+            val configFile = args[0]
             val outputFile = "properties.json"
             val resultList: MutableList<Result> = mutableListOf()
 
-            val files = Files.walk(File(folderFile).toPath())
+            val folderName = File(configFile).readLines()
+
+
+            val files = Files.walk(File(folderName[0]).toPath())
                 .filter { Files.isRegularFile(it) }
                 .filter { it.fileName.toString().endsWith(".java") }
                 .collect(Collectors.toList())
